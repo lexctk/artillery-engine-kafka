@@ -1,1 +1,14 @@
+.DS_Store
+Thumbs.db
+
+dist/
 node_modules
+
+data
+.idea
+
+npm-debug.log
+config/local.env
+coverage
+
+*.tsbuildinfo
